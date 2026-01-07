@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Vikash Kumar
-**A passionate Developer**
+<h1 align="center"> 💫 Hi 👋, I'm Vikash Kumar</h1>
+<h3 align="center">A passionate Developer</h3>
 
 # 👋 About Me
 - 🌱 **I’m currently pursuing** B.Tech in Computer Science (Data Science)
